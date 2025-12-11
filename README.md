@@ -1,4 +1,5 @@
 # TSH Music Chamber
+<img width="2456" height="1840" alt="image" src="https://github.com/user-attachments/assets/cf14096f-2799-4739-854f-83cbd5569ec0" />
 
 A full-stack music streaming application consisting of a FastAPI backend and a React (TypeScript) frontend. The application searches for songs using the Google Custom Search API, extracts audio streams using `yt-dlp`, and plays them in a custom-styled modern UI.
 
